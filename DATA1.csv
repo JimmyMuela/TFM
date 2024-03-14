@@ -1,4 +1,4 @@
-galaxyID,lastProgenitorId,descendantId,haloID,subHaloID,fofID,treeId,firstProgenitorId,nextProgenitorId,type,snapnum,redshift,centralMvir,phkey,x,y,z,zIndex,ix,iy,iz,velX,velY,velZ,np,mvir,rvir,vvir,vmax,coldGas,stellarMass,bulgeMass,hotGas,ejectedMass,blackHoleMass,metalsColdGas,metalsStellarMass,metalsBulgeMass,metalsHotGas,metalsEjectedMass,sfr,sfrBulge,xrayLum,diskRadius,coolingRadius,mag_b,mag_v,mag_r,mag_i,mag_k,mag_bBulge,mag_vBulge,mag_rBulge,mag_iBulge,mag_kBulge,mag_bDust,mag_vDust,mag_rDust,mag_iDust,mag_kDust,massWeightedAge,random
-3000153000570,3000153000767,-1,3000153000259,63000300001063,63000300001063,3000153000000,3000153000571,-1,0,63,0.0,139.25426,13908,33.98128,28.096872,6.1325045,42408,3,3,0,-140.32039,-153.5652,339.99472,2018,139.25426,0.18160005,181.60016,196.07822,0.08093489,2.6161184,2.613151,19.97635,0.09064891,0.005531581,0.0015801974,0.027317608,0.027264347,0.14252494,6.5016694E-4,0.0,0.0,0.0,0.021050211,0.0969788,-19.49868,-20.368145,-21.085014,-21.693584,-23.201143,-19.496214,-20.365736,-21.082663,-21.691236,-23.198658,-19.498657,-20.368128,-21.085001,-21.693573,-23.201141,9.9201,47
+galaxyID,lastProgenitorId,descendantId,haloID,subHaloID,fofID,treeId,firstProgenitorId,nextProgenitorId,type
+3000153000570,3000153000767,-1,3000153000259,63000300001063,63000300001063,3000153000000,3000153000571,-1,0
 
 
