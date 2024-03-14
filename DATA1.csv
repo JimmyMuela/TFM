@@ -1,4 +1,4 @@
-M_star[solar_m],M_planet[solar_m],M_trojan[solar_m],P_exoplanet[days],Distance[pc],fofID,treeId,firstProgenitorId
-1,9.545e-4,9.545e-4,20,275,63000300001063,3000153000000,3000153000571
+M_star[solar_m],M_planet[solar_m],M_trojan[solar_m],P_exoplanet[days],Distance[pc],i[º],phi[º],z,k
+1,9.545e-4,9.545e-4,20,275,25,150,20,7 
 
 
