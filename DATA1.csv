@@ -1,4 +1,4 @@
-M_star[solar_m],lastProgenitorId,descendantId,haloID,subHaloID,fofID,treeId,firstProgenitorId
-1,3000153000767,-1,3000153000259,63000300001063,63000300001063,3000153000000,3000153000571
+M_star[solar_m],M_planet[solar_m],M_trojan[solar_m],haloID,subHaloID,fofID,treeId,firstProgenitorId
+1,9.545e-4,9.545e-4,3000153000259,63000300001063,63000300001063,3000153000000,3000153000571
 
 
